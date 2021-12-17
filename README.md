@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravindar37
 - 👀 I’m interested in ... Distributed systems, Messaging, ML, UX
-- 🌱 I’m currently learning ... Typescript & Angular
+- 🌱 I’m currently learning ... Typescript & Angular, ANN
 - 💞️ I’m looking to collaborate on ... Trading Algorithms, Distributed Architectures
 - 📫 How to reach me ... https://www.linkedin.com/in/aravindar/
 
